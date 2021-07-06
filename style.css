@@ -126,7 +126,25 @@ p{
     height:50%;
     border-radius: 25px;
 }
+#subscriber-section{
+    width:80%;
+    margin: 150px auto;
+    color:rgb(8, 7, 7);
+    box-shadow:-2px 4px 20px 0px rgb(150, 146, 146);
+    margin-bottom: 100px;
+    border-radius: 25px;
 
+
+}
+.subscriber-content{
+    margin:0 auto;
+    text-align: center;
+
+}
+.subscriber-content h3{
+    font-size: 40px;
+    font-weight: 700;
+}
 #contact-us{
     width:80%;
     margin: 100px auto;
